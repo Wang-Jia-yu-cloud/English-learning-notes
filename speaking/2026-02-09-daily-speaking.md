@@ -1,21 +1,41 @@
-# Speaking Practice
+## Speaking Practice
 
-from my own experience （根据我自己的经验）
+- from my own experience（根据我自己的经验）
+- you can sort of see my kid do one key at a time（sort of＝语气缓冲；one key at a time＝一个键一个键地打）
+- painfully do one key at a time（painfully＝慢到让人难受，不是身体疼）
+- should we bring that skill set earlier?（bring earlier＝更早引入）
+- whether to introduce touch typing earlier（whether to＝是否要……）
+- now that kids are using Chromebooks earlier（now that＝既然／鉴于）
+- there was a report yesterday suggesting that…（新闻常用：有报告指出……）
+- a lot of the kids have Chromebooks from about year three（from about＝大约从……）
+- coming up this morning（节目预告：接下来要讲）
+- wastewater issue（公共事务：污水问题）
+- Water problems continue.（情况仍在持续）
+- We’ll get an update from someone in just a moment.（新闻常用：马上带来最新消息）
+- Has the government offered any help as well?（as well＝也，用于追问）
+- We’ll look at the impact it will have on downtown Auckland.（look at the impact＝分析影响）
+- The government has agreed to an independent inquiry.（新闻常用：政府同意展开独立调查）
+- as soon as possible（尽快）
+- Remediation work is going to start.（remediation＝修复、整治）
+- That means we prevent what happened from happening again.（官方表态：防止再次发生）
+- Meanwhile, work continues…（Meanwhile＝与此同时，用于转场）
+- Officials continue to advise people to…（官方持续建议公众……）
+- Police have remained at the scene overnight.（警方通宵留在现场）
+- Officers were called to …（警方接到报警前往）
+- A scene examination is ongoing.（现场勘查仍在进行）
+- with the scene guard still in place.（现场仍在封锁）
+- - The week-long appeal continues today.（continue＝事情仍在进行）
+- is seeking leave to appeal his conviction.（seek leave to＝寻求上诉许可｜法律新闻常用）
+- He spent nearly three hours giving evidence.（spend time doing＝正式新闻用法）
+- Families watched the proceedings via live stream.（proceedings＝法律程序）
+- Trains will not be running this morning due to a track issue.（due to＝由于｜公共服务通告）
+- - Faulty track work was discovered inside the tunnel.（faulty＝有问题的；交通通告常用）
+- Workers have been there overnight to work out exactly how this fault happened.（overnight＝通宵；强调持续处理）
+- They also worked to repair it as quickly as possible.（as quickly as possible＝尽快，官方常用）
+- For commuters this morning, services will be reduced.（commuters＝通勤者）
+- Replacement buses have been arranged.（replacement buses＝替代公交）
+- Some lines will be running less frequently than usual.（less frequently＝班次减少）
+- Safety is paramount.（paramount＝最重要的，官方安抚表态）
+- Check out the Journey Planner app for updates.（check out＝去查看；获取最新信息）
+- I felt like we’d all sort of grown an age together.（felt like＝感觉像；grown an age＝一下子老了一岁，口语夸张）
 
-you can sort of see my kid do one key at a time （sort of＝语气缓冲；one key at a time＝一个键一个键地打）
-
-painfully do one key at a time （painfully＝慢到让人难受，不是身体疼）
-
-should we bring that skill set earlier? （bring earlier＝更早引入）
-
-whether to introduce touch typing earlier （whether to＝是否要……）
-
-now that kids are using Chromebooks earlier （now that＝既然／鉴于）
-
-there was a report yesterday suggesting that… （新闻常用：有报告指出……）
-
-a lot of the kids have Chromebooks from about year three （from about＝大约从……）
-
-coming up this morning （节目预告：接下来要讲）
-
-wastewater issue （公共事务：污水问题）
